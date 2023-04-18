@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<title>Welcome!</title>
+	<title>This is a mini Project !</title>
 	
 	<!-- Bootstrap itself -->
 	<link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">
